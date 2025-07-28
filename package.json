@@ -1,0 +1,20 @@
+{
+  "author": {
+    "name": "Jonas B. Bernardi",
+    "email": "jonasbbernardi@gmail.com"
+  },
+  "name": "resume-website",
+  "version": "1.0.0",
+  "description": "A personal resume website",
+  "main": "serve.js",
+  "scripts": {
+    "start": "node serve.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/jonasbbernardi/resume-website.git"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
